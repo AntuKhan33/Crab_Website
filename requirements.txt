@@ -1,0 +1,9 @@
+streamlit 
+pickle
+sklearn
+pandas 
+numpy 
+streamlit
+matplotlib
+matplotlib.use("Agg")
+seaborn
